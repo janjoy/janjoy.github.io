@@ -17,8 +17,8 @@ description: Let me introduce you to my geek side!
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  #About Me: "aboutme"
-  About Me:
+  About Me: "aboutme"
+  #About Me:
   Teaching:
   CV:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
