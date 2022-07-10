@@ -17,11 +17,13 @@ description: Let me introduce you to my geek side!
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  #About Me: "aboutme"
+  About Me:
+  Teaching:
+  CV:
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
+  Publication: 
 
 # --- Logo --- #
 
