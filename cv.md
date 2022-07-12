@@ -19,12 +19,14 @@ title: Janet Joy
 
 ### Research Experience
 
-**Master’s Thesis Research** January 2017-April 2017, Raman Research Institute, India:	
+**Master’s Thesis Research** January 2017-April 2017:
+  -Raman Research Institute, India:	
   - Advisor: Dr. Ranjini Bandyopadhyay
   - Area of Research: Soft Condensed Matter Physics
     - Instabilities at the interface between a Newtonian fluid and an aging Non-Newtonian fluid in a quasi-2D geometry
    
-**Summer Undergraduate research Fellowship (SURF)** May 2016-July 2016, California Institute of Technology, Pasadena:	
+**Summer Undergraduate research Fellowship (SURF)** May 2016-July 2016:
+  -California Institute of Technology, Pasadena	
   - Mentor: Dr. Yuki Oka	
   - Area of Research: Neuroscience,
     - Neural Correlates Underlying Thirst
@@ -37,7 +39,9 @@ title: Janet Joy
     - Studied how the generic model worked with changes in input parameters like frequency, zenith angle, and temperature.
     - Specifically focused on the Chajnantor observatory and summarized the important radioactive processes possible in the lower atmosphere
     
-**Undergraduate Research** May 2014, National Center for Biological Sciences, Bangalore                                                                                   - Physics of Life Monsoon School
+**Undergraduate Research** May 2014:
+  - National Center for Biological Sciences, Bangalore
+  - Physics of Life Monsoon School
   - Area of Research: Biophysics	
     - Damage response in termite colonies
 
