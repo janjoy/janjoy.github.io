@@ -46,3 +46,24 @@ title: Janet Joy
   - Area of Research: Biophysics	
     - Damage response in termite colonies
 
+### Skills/Coursework
+
+  - Computational Skills:
+    - R, Python, Linux, Bash scripting, MS office
+
+  - Relevant Coursework:
+    - Linear algebra, Statistics, Calculus
+    - Applied Bioinformatics and Computational Biology
+    - Introduction to Biostatistics (using R)
+    - Fundamentals of scientific computing
+    - Qualitative data analysis boot camp
+    - Concepts of learning and memory
+    - Genetics and Genomics
+    - The Science of Writing Science
+    - Social science impact of biomedical research
+
+### Extracurriculars
+
+  - Leadership role for Scripps Computational Biology and Bioinformatics Group
+
+
