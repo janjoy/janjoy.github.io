@@ -19,10 +19,11 @@ description: Let me introduce you to my geek side!
 navbar-links:
   #About Me: "aboutme"
   #About Me:
-  Teaching: "teach"
+  
   CV: "cv"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
+  Teaching: "teach"
   Publication: "pubs"
 
 # --- Logo --- #
