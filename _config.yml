@@ -23,7 +23,7 @@ navbar-links:
   CV: "cv"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
-  Research: "research"
+  #Research: "research"
   Teaching: "teach" 
   Publications: "pubs"
 
