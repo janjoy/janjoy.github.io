@@ -23,8 +23,9 @@ navbar-links:
   CV: "cv"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
-  Teaching: "teach"
-  Publication: "pubs"
+  Research: "research"
+  Teaching: "teach" 
+  Publications: "pubs"
 
 # --- Logo --- #
 
