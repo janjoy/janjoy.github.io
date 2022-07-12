@@ -20,19 +20,20 @@ title: Janet Joy
 ### Research Experience
 
 **Master’s Thesis Research** January 2017-April 2017:
-  -Raman Research Institute, India:	
+  - Raman Research Institute, India
   - Advisor: Dr. Ranjini Bandyopadhyay
   - Area of Research: Soft Condensed Matter Physics
     - Instabilities at the interface between a Newtonian fluid and an aging Non-Newtonian fluid in a quasi-2D geometry
    
 **Summer Undergraduate research Fellowship (SURF)** May 2016-July 2016:
-  -California Institute of Technology, Pasadena	
+  - California Institute of Technology, Pasadena	
   - Mentor: Dr. Yuki Oka	
   - Area of Research: Neuroscience,
     - Neural Correlates Underlying Thirst
     - Developed a mouse tracking software for studying thirst behavior using MATLAB software
     
-**Undergraduate Research** May 2015-June 2015, Raman Research Institute, Bangalore, India:
+**Undergraduate Research** May 2015-June 2015
+  - Raman Research Institute, India
   - Advisor: Dr. Ravi Subrahmanyan 
   - Area of Research: Astronomy and Astrophysics
     - Atmospheric Modelling in the 2– 6 GHz region 
