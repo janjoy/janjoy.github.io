@@ -25,7 +25,7 @@ title: Janet Joy
   - Area of Research: Soft Condensed Matter Physics
     - Instabilities at the interface between a Newtonian fluid and an aging Non-Newtonian fluid in a quasi-2D geometry
    
-**Summer Undergraduate research Fellowship (SURF)** May 2016-July 2016:
+**Summer Undergraduate Research Fellowship (SURF)** May 2016-July 2016:
   - California Institute of Technology, Pasadena	
   - Mentor: Dr. Yuki Oka	
   - Area of Research: Neuroscience,
